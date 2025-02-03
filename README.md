@@ -1,2 +1,2 @@
 hello 
-how r you?
+how are you?
